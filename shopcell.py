@@ -110,7 +110,6 @@ def comprar_aparelho():
                 print("\033[31mOpção inválida.\033[0m")
             return
 
-
 def troca_aparelho():
     try:
         print("-" * 52)
